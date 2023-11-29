@@ -25,6 +25,6 @@ We welcome contributions from the community to make the Fictional Pokedex even m
 
 ## Acknowledgments
 
-We'd like to express our gratitude to the entire Pokemon community for their love and passion, which has inspired us to create this app. Also, a special thanks to the SwiftUI community for their invaluable insights and support.
+We'd like to express our gratitude to the entire Pokemon community for their love and passion, which has inspired me to create this app. Also, a special thanks to the SwiftUI community for their invaluable insights and support.
 
 Enjoy your adventure in the world of Pokemon with the Fictional Pokedex. Made with love in SwiftUI ❤️. Happy exploring!
